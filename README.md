@@ -11,6 +11,7 @@ This homework assignment involves:
   e. Using SQL code to answer 8 questions related to information about the tables
   
 SIX TABLES
+
 The following six SQL files in the sql_represent the table schemas outlining the creation of the six tables:
   1. createtitlesTable.sql - The creation of the "titles" table
   2. createdepartmentsTable.sql - The creation of the "departments" table 
@@ -20,9 +21,11 @@ The following six SQL files in the sql_represent the table schemas outlining the
   6. createdeptmanagerTable.sql - The creation of the "dept_manager" table
 
 8 QUESTIONS
+
 The SQL file "Module9HWQuestions.sql" contains all the sql code to answer all the 8 questions for this assignment
 
 ENTITY RELATIONAL DIAGRAM
+
 The Entity Relational Diagram is represented by two files: PewlettHackardStaff_Database_ERD.pgerd, the PostgreSQL15 ERD Tool and 
 a PDF version file "ENTITY RELATIONAL DIAGRAM_PEWLETTHACKARDSTAFF DATABASE.pdf"
 
